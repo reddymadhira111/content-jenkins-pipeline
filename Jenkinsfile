@@ -19,5 +19,4 @@ pipeline {
 	         archiveArtifacts artifacts: 'rectangular.jar', fingerprint: true
            }
 	}
-    }
 }
